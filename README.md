@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Łukasz
-- 👀 I’m interested in many fields related to big data algorithms, deep learning, statistical physics, programming and medical technology.
-- 🌱 I’m currently developing my ML/Big Data and Django skills and looking for the new opportunities to check myself in the Machine Learning-related roles. 
+- 👀 I’m interested in the areas related to big data algorithms, deep learning, programming and medical technology.
+- 🌱 I’m currently developing my ML/Big Data and FastApi skills and looking for the new opportunities to check myself in the Machine Learning-related roles. 
 - 📫 How to reach me: lukasz.stasiak95@gmail.com
 
 <!---
